@@ -1,6 +1,7 @@
 # fast_location
 
 Descrição
+
 Este aplicativo foi desenvolvido para o projeto de Desenvolvimento Mobile. O objetivo é otimizar a localização de endereços para entregadores através da consulta de CEP, permitindo salvar um histórico local e abrir a rota diretamente no GPS do celular.
 
 Funcionalidades Principais
