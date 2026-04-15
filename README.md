@@ -7,14 +7,22 @@ Este aplicativo foi desenvolvido para o projeto de Desenvolvimento Mobile. O obj
 Funcionalidades Principais
 
 Consulta de Endereço: Busca automática via API ViaCEP.
+
 Histórico Offline: Armazenamento dos endereços consultados no banco de dados local (Hive).
+
 Navegação: Botão que abre o Google Maps ou Waze com o endereço selecionado.
 
 Validação: Aviso visual caso o CEP digitado não exista.
 
 Tecnologias e Bibliotecas
+
+
 Linguagem: Dart / Framework: Flutter.
+
 Gerência de Estado: MobX (Reatividade).
+
 Banco de Dados: Hive (NoSQL).
+
 Comunicação API: Dio (HTTP Client).
+
 Mapas: Map Launcher.
